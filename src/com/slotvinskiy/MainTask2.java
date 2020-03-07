@@ -14,7 +14,5 @@ public class MainTask2 {
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
-        // [1,1,2,2,3,3,4,5,7]
-
     }
 }
